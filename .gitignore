@@ -12,6 +12,7 @@ tests/report
 tmp
 clover.xml
 .phpunit.result.cache
-
+app/storage/orders/index.html
+app/storage/logs/index.html
 !app/storage/orders/index.html
 !app/storage/logs/index.html
